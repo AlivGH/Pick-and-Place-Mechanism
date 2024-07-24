@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/172c547a-cadc-4965-a1bb-a2732ccf1531)
-![image](https://github.com/user-attachments/assets/9d801903-ba86-4cd7-8f40-3293b979f5e1)
+![image](https://github.com/user-attachments/assets/2b6b77c5-e65d-4020-853b-8a1674e14a70)
+![image](https://github.com/user-attachments/assets/99bd34e9-571e-4b42-b447-41019bbaa6fb)
+
 
 # Rotational Pick-and-Place Mechanisms
 
