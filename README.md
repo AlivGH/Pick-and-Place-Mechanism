@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/08cf4f43-4598-471b-a6dd-860c4ec58a32)
-![image](https://github.com/user-attachments/assets/361c0c77-0036-4bb0-a242-a13d4002602a)
+![image](https://github.com/user-attachments/assets/172c547a-cadc-4965-a1bb-a2732ccf1531)
+![image](https://github.com/user-attachments/assets/9d801903-ba86-4cd7-8f40-3293b979f5e1)
+
 # Rotational Pick-and-Place Mechanisms
 
 This project presents the design, fabrication, and evaluation of two 3D-printed rotational pick-and-place mechanisms developed for a mechanical engineering design course. The primary objective was to create efficient and reliable mechanisms capable of accurately picking up objects from a designated location and placing them at a desired position through rotational motion.
@@ -39,6 +40,3 @@ By completing this project, we gained invaluable knowledge about mechanisms and 
 - **Email:** [arshjshr@gmail.com](mailto:arshjshr@gmail.com)
 - **LinkedIn:** [Arshia Razazan](https://www.linkedin.com/in/arshia-razazan-a61216244/)
 
----
-
-Feel free to reach out to us for any further information or collaboration opportunities.
