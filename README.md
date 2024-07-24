@@ -22,8 +22,8 @@ The successful implementation of these mechanisms not only fulfills the academic
 ## Key Skills
 
 - Teamwork
-- Mechanical Design
-- 3D Printing
+- Mechanical Design🧠
+- 3D Printing🛠️
 
 By completing this project, we gained invaluable knowledge about mechanisms and how to design and construct new mechanisms for specific purposes.
 
